@@ -2,7 +2,7 @@
 
 Professional ReadMe.md/ Repository ReadMe.md
 
-description
+# description
 
 a command-line application that dynamically generates a professional README.md file from a user's input
 
@@ -10,9 +10,6 @@ a command-line application that dynamically generates a professional README.md f
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
 
 ### Installation
@@ -31,6 +28,3 @@ a command-line application that dynamically generates a professional README.md f
 if you any questions you can contact me at email: mostafa_mer3e8@hotmail.com
 
 [check out my other project](https://github.com/)
-
-
-
